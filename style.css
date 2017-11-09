@@ -1,0 +1,97 @@
+body {
+    background-color: white;
+    font-family: Roboto;
+    color: white;
+}
+
+.pageOne{
+    background: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6");
+    background-size: cover;
+/*     height: 800px; */
+    padding-top: 15%;
+    padding-bottom: 20%;
+    background-attachment: fixed;
+}
+
+.nav-pills {
+    font-size: 1.7em;
+    background-color: rgba(0, 0, 0, 0.95);
+}
+
+a{
+  color: white;
+}
+
+.title{
+    padding: 0;
+    margin-top: 0px;
+    font-size: 4.5em;
+}
+
+.subtitle{
+    padding: 0;
+    margin-top: 0px;
+    font-size: 3.0em;
+}
+
+.btn-default{
+    background-color: rgba(0, 0, 0, 0.9);
+    border-color: black;
+    color: white;
+    font-size: 1.7em;
+    margin-top: 1%;
+}
+
+.btn-lg{
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 1%;
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+.pageTwo{
+    background: url("https://wallpapercave.com/wp/LDJAVJs.jpg");
+    background-size: cover;
+/*     height: 800px; */
+    padding: 1%;
+    padding-top: 1%;
+    padding-bottom: 8%;
+
+/*     background-attachment: local; */
+}
+
+.description {
+    font-size: 1.2em;
+}
+.btn-md{
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 3%;
+    border-radius: 10px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+#me {
+    height: 300px;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+
+.pageThree{
+    background: url("https://images.unsplash.com/photo-1484417894907-623942c8ee29");
+    background-size: cover;
+    padding: 1%;
+    padding-top: 1%;
+    padding-bottom: 8%;
+}
+
+.pageFour{
+    background: url("https://images.unsplash.com/photo-1454165205744-3b78555e5572");
+    background-size: cover;
+    padding: 1%;
+    padding-top: 1%;
+    padding-bottom: 8%;
+}
